@@ -1,0 +1,4 @@
+Offline Helper is a local AI assistant.
+It uses Python, Ollama and SQLite.
+Its purpose is to provide useful information
+while protecting local data.
